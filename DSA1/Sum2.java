@@ -14,5 +14,6 @@ public class Sum2 {
        Scanner sc = new Scanner(System.in);
        int n = sc.nextInt();
        System.out.print(fun2( n));
+       sc.close();
     }
 }

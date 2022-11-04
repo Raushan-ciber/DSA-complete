@@ -17,6 +17,7 @@ public class Countdigit {
                 n= n/10;
             }
             System.out.print(count);
+            dedo.close();
         
     }
     // solving with recursion method
